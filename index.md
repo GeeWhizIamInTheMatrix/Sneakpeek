@@ -1,4 +1,4 @@
-## Sneakpeek - The New Realtime News app for iOS
+## Sneakpeek - The New Realtime News App For iOS
 
 Best Features
 
